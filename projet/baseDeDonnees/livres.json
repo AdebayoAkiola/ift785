@@ -1,0 +1,22 @@
+[
+    {
+        "isbn": "1234567890",
+        "auteur": "John Doe",
+        "titre": "Le livre de John Doe"
+    },
+    {
+        "isbn": "0987654321",
+        "auteur": "Jane Smith",
+        "titre": "Le livre de Jane Smith"
+    },
+    {
+        "isbn": "1357908642",
+        "auteur": "John Doe",
+        "titre": "Le deuxième livre de John Doe"
+    },
+    {
+        "isbn": "2468013579",
+        "auteur": "Jane Smith",
+        "titre": "Le deuxième livre de Jane Smith"
+    }
+]
